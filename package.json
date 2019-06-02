@@ -9,7 +9,7 @@
   "author": "Marcelo Magano",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "slackbots": "^1.1.0"
   }
 }
